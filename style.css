@@ -795,8 +795,10 @@ section:not(.no-js) .animating img {
 /*----- Header Logo
 --------------------------------------------------------------*/
 .main-logo a {
+    font-family: "EB Garamond", serif;
     font-size: 2em;
-    font-weight: 900;
+    font-weight: 500;
+    font-style: italic;
     color: #fff;
     margin: 0 auto;
     padding-right: 210px;
